@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react"
-import { useNavigate } from "react-router-dom";
 
 // Define the structure of account object to type script
 type Account = {
